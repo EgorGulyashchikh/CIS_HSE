@@ -1,6 +1,6 @@
 # File with basic functions
 def greet(name):
-    return f"Hello {name}!"
+    return f"Hello {name}!!"
 
 def add(a, b):
     return a + b
