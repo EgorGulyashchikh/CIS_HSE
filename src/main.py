@@ -1,3 +1,4 @@
+# File with basic functions
 def greet(name):
     return f"Hello {name}!"
 
